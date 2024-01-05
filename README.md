@@ -67,26 +67,19 @@ If you have any questions or feedback, please contact the repository owner at [e
 The following are some examples of the programs that are included in this repository:
 
 * **Functions**
-    * `hello.go`: A simple program that prints "Hello, world!"
-    * `fibonacci.go`: A program that prints the Fibonacci sequence
-* **Variables**
-    * : A program that demonstrates the different types of variables in Go
-* **Conditionals**
-    * ``: A program that uses an `if` statement to check a condition
-    * : A program that uses a `switch` statement to check a value
-* **Loops**
-    *: A program that uses a `for` loop to iterate over a range
+    * `NewtonsMethod.go`: A simple program that solve Newton's method for sqrt number and compare the results with "math" packages.
+    * : A program that prints the Fibonacci sequence
 * **Arrays**
-    * `arrays.go`: A program that demonstrates how to use arrays in Go
+    *: A program that demonstrates how to use arrays in Go
 * **Slices**
-    * `slices.go`: A program that demonstrates how to use slices in Go
+    * : A program that demonstrates how to use slices in Go
 * **Maps**
-    * `maps.go`: A program that demonstrates how to use maps in Go
+    *: A program that demonstrates how to use maps in Go
 * **Structs**
-    * `structs.go`: A program that demonstrates how to use structs in Go
+    * : A program that demonstrates how to use structs in Go
 * **Interfaces**
-    * `interfaces.go`: A program that demonstrates how to use interfaces in Go
+    *: A program that demonstrates how to use interfaces in Go
 * **Concurrency**
-    * `goroutines.go`: A program that demonstrates how to use goroutines in Go
+    * : A program that demonstrates how to use goroutines in Go
 * **Testing**
-    * `testing.go`: A program that demonstrates how to write unit tests in Go
+    * : A program that demonstrates how to write unit tests in Go
