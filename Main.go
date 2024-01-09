@@ -1,11 +1,11 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 	fmt.Println(Sqrt(2))
-	TodaysDate()
-	DaystoToday()
+	//TodaysDate()
+	//DaystoToday()
+	//Pointers()
+	SlicesExample()
 }
